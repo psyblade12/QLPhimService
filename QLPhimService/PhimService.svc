@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="QLPhimService.PhimService" CodeBehind="PhimService.svc.cs" %>
